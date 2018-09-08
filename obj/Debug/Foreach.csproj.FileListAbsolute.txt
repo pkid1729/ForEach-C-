@@ -1,0 +1,5 @@
+E:\C# Practice\1\A.New\Foreach\Foreach\bin\Debug\Foreach.exe.config
+E:\C# Practice\1\A.New\Foreach\Foreach\bin\Debug\Foreach.exe
+E:\C# Practice\1\A.New\Foreach\Foreach\bin\Debug\Foreach.pdb
+E:\C# Practice\1\A.New\Foreach\Foreach\obj\Debug\Foreach.exe
+E:\C# Practice\1\A.New\Foreach\Foreach\obj\Debug\Foreach.pdb
